@@ -1,0 +1,21 @@
+div{
+			border: 0px solid black;
+			min-height: 30px;
+		}
+		h2{
+			color: green;
+		}
+		a{
+			color: green;
+		}
+		h1{
+			color: black;
+	
+		}
+		h3{
+			color: red;
+		}
+		body{
+			background-color:black;
+			color: white;
+		}
